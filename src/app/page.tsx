@@ -59,10 +59,3 @@ const Home: React.FC<Services> = async () => {
 };
 
 export default Home;
-
-// import Contact from "./contacts/page";
-// const Home = () => {
-//   return <Contact />;
-// };
-
-// export default Home;
